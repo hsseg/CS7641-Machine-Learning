@@ -10,7 +10,7 @@ Datasets
 1. Heart Failure Prediction: https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
 Data and Jupyter notebook can be accessed at:
-https://github.com/hsseg/CS7641-Machine-Learning/blob/main/Assignment%232/02-Randomized-Optimization-2022-03-03.ipynb  
+https://github.com/hsseg/CS7641-Machine-Learning/blob/main/Assignment%233/03-UnSupervised-Learning-2022-03-09.ipynb  
 
 
 Steps:
