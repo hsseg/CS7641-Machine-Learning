@@ -21,13 +21,13 @@ pip install pyparsing==2.4.5
 pip install python-dateutil==2.8.1
 pip install scipy==1.3.2
 pip install six==1.13.0
+pip install lrl
 
 
 Data and Jupyter notebook can be accessed at:
-https://github.com/hsseg/CS7641-Machine-Learning/blob/main/Assignment%233/03-UnSupervised-Learning-2022-03-09.ipynb 
+1. https://github.com/hsseg/CS7641-Machine-Learning/blob/main/Assignment%234/05-MarkovDecisionProcess-ReinforcementLearning-2022-04-08.ipynb
+2. https://github.com/hsseg/CS7641-Machine-Learning/blob/main/Assignment%234/06-MarkovDecisionProcess-ReinforcementLearning-Gamma-Epsilon-2022-04-14.ipynb
 
 
 Steps:
-1. Make sure your python environment has the above libraries
-2. Change the data file location in the jupyter notebook to match the downloaded data
-3. Run the Jupyter notebook
+23. Run the Jupyter notebook
